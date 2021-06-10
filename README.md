@@ -83,69 +83,72 @@ Basically, a Contour blockchain letter of credit is now available on the network
 Basically, it comes in two stages –
 
 ### Buying
+
 Digital Letter of Credit Drafting
 First, both buyer and seller can create, make edits, and agree to a draft of the Letter of Credit between them.
 
-### Bank Issues Digital LC
+#### Bank Issues Digital LC
 Next, the banks will advise, issue, and confirm the Letter of Credit on the platform.
 
-### Tracking Process
+#### Tracking Process
 After confirmation and agreement from both parties, the real-time tracking process will start.
 
 ### Selling
 Digital Documentations
 Here, you can integrate with the essDocs and Bolero’s electronic bill of lading in the system.
 
-### Highlights Discrepancies
+#### Highlights Discrepancies
 One can directly get all the discrepancies highlighted in the system. More so, those errors are fixable as well.
 
-### Bank Directives
+#### Bank Directives
 The seller will get all the instructions from the bank, starting from confirmation, acceptance, bills, and loans directly on the Voltron blockchain A.K.A. Contour blockchain.
 
 ## Features of Contour Blockchain Platform
-### High availability of nodes, so there would be no system loss.
-### It supports hybrid deployment.
-### It provides data-at-rest encryption for security.
-### The platform supports key renewal and revocation in case of any disasters.
-### It offers better connectivity throughout the globe.
-### The platform is highly scalable.
-### The DLT Health Monitoring of CryptoBLK helps to monitor the network’s condition in real-time.
+
+    High availability of nodes, so there would be no system loss.
+    It supports hybrid deployment.
+    The seller will get all the instructions from the bank, starting from confirmation, acceptance, bills, and loans directly on the Voltron blockchain A.K.A. Contour blockchain.
+    It provides data-at-rest encryption for security.
+    The platform supports key renewal and revocation in case of any disasters.
+    It offers better connectivity throughout the globe.
+    The platform is highly scalable.
+    The DLT Health Monitoring of CryptoBLK helps to monitor the network’s condition in real-time.
  
 
-Features the Platform Doesn’t Have
-Transfer Funds
+## Features the Platform Doesn’t Have
+
+### Transfer Funds
 At present, you still can’t make payments in Contour. So, you have to use SWIFT.
 
-Auto-Match Documents
+### Auto-Match Documents
 As most of the industry isn’t using the blockchain technology, you have to check some of the documents manually.
 
-Cryptocurrencies or Tokens
-The platform doesn’t have any native token or crypto.#### ### ## 
-### 
+### Cryptocurrencies or Tokens
+The platform doesn’t have any native token or crypto.
  
-
-What Are the Benefits of The Project?
+## What Are the Benefits of The Project?
 Basically, both banks and corporates will get their fair share of benefits with the project. Let’s see what they are –
 
-Bank Benefits
-Greater client experience.
-Increase bank brand value as an innovator for the employees, clients, and shareholders.
-Reduces credit risk management.
-Improves operational management.
-Reduces the cost of trade processing with digitization and increased productivity.
-Get more clients by offering diverse financing options and greater leading services.
-Increases share of wallet for existing customers with a working capital solution and risk mitigation.
-Provides auditing compatibility in real-time.
-Tracks assets and improves transparency.
+## Bank Benefits
+   
+    Greater client experience.
+    Increase bank brand value as an innovator for the employees, clients, and shareholders.
+    Reduces credit risk management.
+    Improves operational management.
+    Reduces the cost of trade processing with digitization and increased productivity.
+    Get more clients by offering diverse financing options and greater leading services.
+    Increases share of wallet for existing customers with a working capital solution and risk mitigation.
+    Provides auditing compatibility in real-time.
+    Tracks assets and improves transparency.
  
 
-Corporate Benefits
-Reduces paperwork and time for transitions. Documents take less time to transit and process on a single channel across multiple trade partners.
-Fast credit settlements and almost instant transactions.
-Lowers Working Capital financing rates.
-Higher level of protection against fraud.
-All digital documents are signed and produced cryptographically, which is later verified for authenticity claims.
-Gets rid of fraudulent claims and duplicated BLs across the solution.
-Increases operational efficiency to a great extent and uses auto-validation and smart contact features in real-time for that.
-Real-time e-presentation and information sharing of documents and applications.
-Offers traditional Doc trade with reliable and faster checks for modularization and reducing specific risk factors.
+## Corporate Benefits
+    Reduces paperwork and time for transitions. Documents take less time to transit and process on a single channel across multiple trade partners.
+    Fast credit settlements and almost instant transactions.
+    Lowers Working Capital financing rates.
+    Higher level of protection against fraud.
+    All digital documents are signed and produced cryptographically, which is later verified for authenticity claims.
+    Gets rid of fraudulent claims and duplicated BLs across the solution.
+    Increases operational efficiency to a great extent and uses auto-validation and smart contact features in real-time for that.
+    Real-time e-presentation and information sharing of documents and applications.
+    Offers traditional Doc trade with reliable and faster checks for modularization and reducing specific risk factors.
